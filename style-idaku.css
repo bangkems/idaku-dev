@@ -9,12 +9,11 @@
     .bg-custom {
         background-color: #f58428;
     }
-
+    
     .complementary {
-        background-color:#dc6c50;
+        background-color: #dc6c50;
         color: white;
     }
-
     /* CUSTOMIZE THE CAROUSEL
   -------------------------------------------------- */
     /* Carousel base class */
@@ -115,18 +114,23 @@
     .section-dua p {
         padding-bottom: 10px;
     }
-
+    
     .card-body {
         color: black;
     }
-
+    
     .card-deck {
         margin-top: 20px;
         margin-left: 30px;
         margin-right: 30px;
     }
-
+    
     .card-title {
+        text-align: center;
+        font-weight: 700;
+    }
+    
+    .card-text {
         text-align: center;
     }
     
@@ -244,7 +248,7 @@
     
     .section-lima {
         background-color: #f58428;
-;
+        ;
         color: white;
         padding-left: 5rem;
         padding-top: 3rem;
@@ -294,20 +298,6 @@
         box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5) inset;
     }
     
-    .social-icon--linkedin {
-        background: #006599;
-        color: #fff;
-    }
-    
-    .social-icon--linkedin .tooltip {
-        background: #006599;
-        color: currentColor;
-    }
-    
-    .social-icon--linkedin .tooltip:after {
-        border-top-color: #006599;
-    }
-    
     .social-icon--twitter {
         background: #2b97f1;
         color: #fff;
@@ -320,20 +310,6 @@
     
     .social-icon--twitter .tooltip:after {
         border-top-color: #2b97f1;
-    }
-    
-    .social-icon--codepen {
-        background: #000;
-        color: #fff;
-    }
-    
-    .social-icon--codepen .tooltip {
-        background: #000;
-        color: currentColor;
-    }
-    
-    .social-icon--codepen .tooltip:after {
-        border-top-color: #000;
     }
     
     .social-icon--facebook {
@@ -362,34 +338,6 @@
     
     .social-icon--instagram .tooltip:after {
         border-top-color: #FFC008;
-    }
-    
-    .social-icon--dribbble {
-        background: #ef5a92;
-        color: #fff;
-    }
-    
-    .social-icon--dribbble .tooltip {
-        background: #ef5a92;
-        color: currentColor;
-    }
-    
-    .social-icon--dribbble .tooltip:after {
-        border-top-color: #ef5a92;
-    }
-    
-    .social-icon--github {
-        background: #4284c0;
-        color: #fff;
-    }
-    
-    .social-icon--github .tooltip {
-        background: #4284c0;
-        color: currentColor;
-    }
-    
-    .social-icon--github .tooltip:after {
-        border-top-color: #4284c0;
     }
     
     .social-icon i {
