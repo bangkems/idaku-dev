@@ -1,0 +1,416 @@
+.cards {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    -webkit-justify-content: center;
+    /* max-width: 1020px; */
+}
+
+.card--1 .card__img,
+.card--1 .card__img--hover {
+    background-image: url('images/produk/bestseller/Ades.jpg');
+}
+
+.card--2 .card__img,
+.card--2 .card__img--hover {
+    background-image: url('images/produk/bestseller/Blueband\ 200gr.jpg');
+}
+
+.card--3 .card__img,
+.card--3 .card__img--hover {
+    background-image: url('images/produk/bestseller/Blueband\ 500gr.jpg');
+}
+
+.card--4 .card__img,
+.card--4 .card__img--hover {
+    background-image: url('images/produk/bestseller/Butter\ Cream\ 1kg.jpg');
+}
+
+.card--5 .card__img,
+.card--5 .card__img--hover {
+    background-image: url('images/produk/bestseller/Cakra\ Kembar\ 1kg.jpg');
+}
+
+.card--6 .card__img,
+.card--6 .card__img--hover {
+    background-image: url('images/produk/bestseller/Cap\ Tebu\ Halus\ 500gr.jpg');
+}
+
+.card--7 .card__img,
+.card--7 .card__img--hover {
+    background-image: url('images/produk/bestseller/CARNATION\ 495gr.jpg');
+}
+
+.card--8 .card__img,
+.card--8 .card__img--hover {
+    background-image: url('images/produk/bestseller/Coklat\ Alfa\ 250g.jpg');
+}
+
+.card--9 .card__img,
+.card--9 .card__img--hover {
+    background-image: url('images/produk/bestseller/Coklat\ Alfa\ 500g.jpg');
+}
+
+.card--10 .card__img,
+.card--10 .card__img--hover {
+    background-image: url('images/produk/bestseller/DAIRY\ CHAMP\ KALENG\ 1KG.jpg');
+}
+
+.card--11 .card__img,
+.card--11 .card__img--hover {
+    background-image: url('images/produk/bestseller/DAIRY\ CHAMP\ KALENG\ 500GR.jpg');
+}
+
+.card--12 .card__img,
+.card--12 .card__img--hover {
+    background-image: url('images/produk/bestseller/DANCOW\ SACHET\ 27GR.jpg');
+}
+
+.card--13 .card__img,
+.card--13 .card__img--hover {
+    background-image: url('images/produk/bestseller/DELMONTE\ SAUS\ SAMBAL\ REFILL\ 1KG.jpg');
+}
+
+.card--14 .card__img,
+.card--14 .card__img--hover {
+    background-image: url('images/produk/bestseller/DELMONTE\ SAUS\ TOMAT\ REFILL\ 1KG.jpg');
+}
+
+.card--15 .card__img,
+.card--15 .card__img--hover {
+    background-image: url('images/produk/bestseller/DIAMOND\ UHT\ MILK\ FULLCREAM\ 1L.jpg');
+}
+
+.card--16 .card__img,
+.card--16 .card__img--hover {
+    background-image: url('images/produk/bestseller/DOLPHIN\ AGAR-AGAR\ 100GR.jpg');
+}
+
+.card--17 .card__img,
+.card--17 .card__img--hover {
+    background-image: url('images/produk/bestseller/FERMIPAN\ MINI\ SACHET\ 11GR.jpg');
+}
+
+.card--18 .card__img,
+.card--18 .card__img--hover {
+    background-image: url('images/produk/bestseller/FRESTEA\ TEH\ CUP\ 296ML.jpg');
+}
+
+.card--19 .card__img,
+.card--19 .card__img--hover {
+    background-image: url('images/produk/bestseller/GULA\ SALJU\ DEXTROSE\ 1KG.jpg');
+}
+
+.card--20 .card__img,
+.card--20 .card__img--hover {
+    background-image: url('images/produk/bestseller/GULAKU\ 1KG.jpg');
+}
+
+.card--21 .card__img,
+.card--21 .card__img--hover {
+    background-image: url('images/produk/bestseller/INDOMILK\ COKLAT\ KALENG\ 370GR.jpg');
+}
+
+.card--22 .card__img,
+.card--22 .card__img--hover {
+    background-image: url('images/produk/bestseller/INDOMILK\ PUTIH\ KALENG\ 370GR.jpg');
+}
+
+.card--23 .card__img,
+.card--23 .card__img--hover {
+    background-image: url('images/produk/bestseller/KARA\ NATA\ DE\ COCO\ SLICE\ 1KG.jpg');
+}
+
+.card--24 .card__img,
+.card--24 .card__img--hover {
+    background-image: url('images/produk/bestseller/KARA\ SUN\ SANTAN\ 65ML.jpg');
+}
+
+.card--25 .card__img,
+.card--25 .card__img--hover {
+    background-image: url('images/produk/bestseller/KIDZ\ JELLY.jpg');
+}
+
+.card--26 .card__img,
+.card--26 .card__img--hover {
+    background-image: url('images/produk/bestseller/KREMER\ KENTAL\ MANIS\ 500GR.jpg');
+}
+
+.card--27 .card__img,
+.card--27 .card__img--hover {
+    background-image: url('images/produk/bestseller/LEPATTA\ MELON\ 250GR.jpg');
+}
+
+.card--28 .card__img,
+.card--28 .card__img--hover {
+    background-image: url('images/produk/bestseller/MAESTRO\ MAYONNAISE\ 1KG.jpg');
+}
+
+.card--29 .card__img,
+.card--29 .card__img--hover {
+    background-image: url('images/produk/bestseller/MAIZENA\ 1KG.jpg');
+}
+
+.card--30 .card__img,
+.card--30 .card__img--hover {
+    background-image: url('images/produk/bestseller/MENARA\ PUTIH\ 250GR.jpg');
+}
+
+.card--31 .card__img,
+.card--31 .card__img--hover {
+    background-image: url('images/produk/bestseller/MIKA\ NAMPAN\ BESAR.jpg');
+}
+
+.card--32 .card__img,
+.card--32 .card__img--hover {
+    background-image: url('images/produk/bestseller/MISIS\ NURI\ 250GR.jpg');
+}
+
+.card--33 .card__img,
+.card--33 .card__img--hover {
+    background-image: url('images/produk/bestseller/NE\ TEPUNG\ KETAN\ 500GR.jpg');
+}
+
+.card--34 .card__img,
+.card--34 .card__img--hover {
+    background-image: url('images/produk/bestseller/NUTRIJELL\ COKLAT\ 30GR.jpg');
+}
+
+.card--35 .card__img,
+.card--35 .card__img--hover {
+    background-image: url('images/produk/bestseller/OMELA\ KENTAL\ MANIS\ 490GR.jpg');
+}
+
+.card--36 .card__img,
+.card--36 .card__img--hover {
+    background-image: url('images/produk/bestseller/PALMBOOM\ 250GR.jpg');
+}
+
+.card--37 .card__img,
+.card--37 .card__img--hover {
+    background-image: url('images/produk/bestseller/PERMEN\ COKLAT\ KOIN.jpg');
+}
+
+.card--38 .card__img,
+.card--38 .card__img--hover {
+    background-image: url('images/produk/bestseller/PESONA\ LAUT\ BERAS\ 5KG.jpg');
+}
+
+.card--39 .card__img,
+.card--39 .card__img--hover {
+    background-image: url('images/produk/bestseller/PLASTIK\ CONTONG.jpg');
+}
+
+.card--40 .card__img,
+.card--40 .card__img--hover {
+    background-image: url('images/produk/bestseller/PROCHIZ\ GOLD\ CHEDDAR\ 170GR.jpg');
+}
+
+.card--41 .card__img,
+.card--41 .card__img--hover {
+    background-image: url('images/produk/bestseller/PROCHIZ\ SLICE\ 170GR\ \(10\).jpg');
+}
+
+.card--42 .card__img,
+.card--42 .card__img--hover {
+    background-image: url('images/produk/bestseller/R_W\ BAKING\ POWDER\ 15GR.jpg');
+}
+
+.card--43 .card__img,
+.card--43 .card__img--hover {
+    background-image: url('images/produk/bestseller/R_W\ SODA\ KUE\ ORANGE\ 40GR.jpg');
+}
+
+.card--44 .card__img,
+.card--44 .card__img--hover {
+    background-image: url('images/produk/bestseller/RED\ BELL\ DARK\ CHOCOLATE\ 55ML.jpg');
+}
+
+.card--45 .card__img,
+.card--45 .card__img--hover {
+    background-image: url('images/produk/bestseller/ROSEBRAND\ GULA\ KRISTAL\ PUTIH\ 1KG.jpg');
+}
+
+.card--46 .card__img,
+.card--46 .card__img--hover {
+    background-image: url('images/produk/bestseller/ROSEBRAND\ KETAN\ 500GR.jpg');
+}
+
+.card--47 .card__img,
+.card--47 .card__img--hover {
+    background-image: url('images/produk/bestseller/ROSEBRAND\ TP\ BERAS\ PUTIH\ 500GR.jpg');
+}
+
+.card--48 .card__img,
+.card--48 .card__img--hover {
+    background-image: url('images/produk/bestseller/ROYAL\ RASA\ BALADO\ ORANGE\ 100GR.jpg');
+}
+
+.card--49 .card__img,
+.card--49 .card__img--hover {
+    background-image: url('images/produk/bestseller/ROYAL\ RASA\ BALADO\ PEDAS\ MANIS\ 100GR.jpg');
+}
+
+.card--50 .card__img,
+.card--50 .card__img--hover {
+    background-image: url('images/produk/bestseller/ROYAL\ RASA\ BBQ\ 100GR.jpg');
+}
+
+.card--51 .card__img,
+.card--51 .card__img--hover {
+    background-image: url('images/produk/bestseller/SAF\ INSTANT\ SACHET\ 11GR.jpg');
+}
+
+.card--52 .card__img,
+.card--52 .card__img--hover {
+    background-image: url('images/produk/bestseller/SATELIT\ PUTIH\ 5GR.jpg');
+}
+
+.card--53 .card__img,
+.card--53 .card__img--hover {
+    background-image: url('images/produk/bestseller/SEGITIGA\ BIRU\ 1KG.jpg');
+}
+
+.card--54 .card__img,
+.card--54 .card__img--hover {
+    background-image: url('images/produk/bestseller/SEGITIGA\ BIRU\ 500GR.jpg');
+}
+
+.card--55 .card__img,
+.card--55 .card__img--hover {
+    background-image: url('images/produk/bestseller/SP\ RYOTO\ 250GR.jpg');
+}
+
+.card--56 .card__img,
+.card--56 .card__img--hover {
+    background-image: url('images/produk/bestseller/SPARROW\ COKELAT\ DARK\ 500GR.jpg');
+}
+
+.card--57 .card__img,
+.card--57 .card__img--hover {
+    background-image: url('images/produk/bestseller/SUSU\ TIGA\ SAPI\ KALENG\ 500GR.jpg');
+}
+
+.card--58 .card__img,
+.card--58 .card__img--hover {
+    background-image: url('images/produk/bestseller/SWALLOW\ GLOBE\ PUTIH\ 7GR.jpg');
+}
+
+.card--59 .card__img,
+.card--59 .card__img--hover {
+    background-image: url('images/produk/bestseller/TELUR\ 1KG.jpg');
+}
+
+.card--60 .card__img,
+.card--60 .card__img--hover {
+    background-image: url('images/produk/bestseller/TEPUNG\ KETAN\ HITAM\ 500GR.jpg');
+}
+
+.card--61 .card__img,
+.card--61 .card__img--hover {
+    background-image: url('images/produk/bestseller/VANILI\ POWDER\ 50GR.jpg');
+}
+
+.card--62 .card__img,
+.card--62 .card__img--hover {
+    background-image: url('images/produk/bestseller/WINCHEEZ\ 250GR.jpg');
+}
+
+.card__img {
+    visibility: hidden;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 285px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.card__img--hover {
+    transition: 0.2s all ease-out;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: absolute;
+    height: 295px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    top: 0;
+}
+
+.card {
+    margin-right: 25px;
+    transition: all .4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: #fff;
+    width: 100%;
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+    box-shadow: 0px 30px 18px -8px rgba(0, 0, 0, 0.1);
+    transform: scale(1.10, 1.10);
+}
+
+.card__info {
+    z-index: 2;
+    /* background-color: #fff; */
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 16px 24px 24px 24px;
+}
+
+.card__category {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #7b7992;
+}
+
+.card__title {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 650;
+    margin-bottom: 10px;
+    font-family: 'Quicksand', sans-serif;
+    color: #f58428;
+}
+
+.card__desc {
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    color: #000;
+}
+
+.card:hover .card__img--hover {
+    height: 100%;
+    opacity: 0.3;
+}
+
+.card:hover .card__info {
+    background-color: transparent;
+    position: relative;
+}
+
+
+/* floating button */
+
+.home-button {
+    background-color: #f58428;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border-color: #f5b828;
+}
+
+#mybutton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
