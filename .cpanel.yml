@@ -6,4 +6,4 @@ deployment:
  
  - export DEPLOYPATH=/home/k7389876/public_html/
  
- - /usr/bin/rsync -Paz * $DEPLOYPATH --delete
+ - /bin/cp -R * $DEPLOYPATH
